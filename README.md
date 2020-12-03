@@ -1,4 +1,4 @@
-# mesolymph
+# meso-lymph
 
 This repo contains scripts for naming genes from ExomeDepth outputs.
 

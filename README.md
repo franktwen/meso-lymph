@@ -21,3 +21,7 @@ The output files contain the following new columns:
 `rowId` a unique row indicator for each row in the original ExomeDepth file (e.g. 1-10000 for each file)
 
 Note that unnamed reads are not included in the output.
+
+## How to run the name_genes.R script
+1) put all the exomeDepth outputs into the `data` directory
+2) open and run the name_genes.R script
